@@ -8,12 +8,10 @@ p {
 }
 
 body {
-    background: #c1c1c1;
+    background-image: url("https://i.ibb.co/p47qpd9/animated-gifs-of-fighting-game-backgrounds-37.gif");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: top center;
-    background-size: contain;
-    background-size: 100%;
+    background-size: cover;
 }
 
 a:hover {
