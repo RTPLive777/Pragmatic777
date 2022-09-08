@@ -140,7 +140,7 @@ button:focus {
     background: #781C68;
     border-radius: 5px; /* 5px rounded corners */;
     text-align: center;
-    position: relative;
+    position: absolute;
     margin: 5px 0;
 }
 
