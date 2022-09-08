@@ -134,14 +134,14 @@ button:focus {
     z-index: 0;
 }
 
-.card {
-    float: left;
-    width: 20%;
-    background: #781C68;
-    border-radius: 5px; /* 5px rounded corners */;
-    text-align: center;
-    position: absolute;
-    margin: 5px 0;
+.card-content {
+    margin: 5px;
+    color: #781C68;
+    font-size: 12px;
+    border: none;
+    overflow: hidden;
+    position: relative;
+    background-color: #000000;
 }
 
 .card {
