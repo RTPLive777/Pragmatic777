@@ -151,7 +151,7 @@ button:focus {
     border: none;
     overflow: hidden;
     position: relative;
-    background-color: #781C68;
+    background-color: #000000;
 }
 
 .percent {
