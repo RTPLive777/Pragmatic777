@@ -138,7 +138,7 @@ button:focus {
     float: left;
     width: 20%;
     background: #781C68;
-    border: none;
+    border-radius: 5px; /* 5px rounded corners */;
     text-align: center;
     position: relative;
     margin: 5px 0;
