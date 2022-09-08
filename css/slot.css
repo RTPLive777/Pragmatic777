@@ -325,7 +325,7 @@ button:focus {
     padding-top: 6px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
-    border: 0.1px solid black;
+    border: 0.1px solid #2A0944;
 }
 
 .jam {
